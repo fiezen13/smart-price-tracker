@@ -1,0 +1,1 @@
+Build an automated system to track the prices of products you are interested in on major e-commerce platforms in Vietnam (Tiki, Shopee, Lazada). When the product price drops below a preset threshold or when new discount codes become available, the system will automatically send you notifications via Email or Telegram.
